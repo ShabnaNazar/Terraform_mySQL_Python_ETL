@@ -3,10 +3,10 @@
 Section 1 Goal: Database Configuration & Python ETL 
 Provision one database of your choosing (SQL, NoSQL, Graph).  Write a python ETL that ingests the provided data, transforms it in some way, and loads it into the database. This should be reproducible code with documentation. (Terraform / Cloudformation / Ansible, docker-compose etc). 
 
-As part of the take home assignment section 1:
+As part of the take home assignment section 1: I have done the below tasks
 
-  1) Using Terraform to provision mySQL server and DB in Azure cloud.
-  2) Using Python code to Extract the file from local, after few basic checks transform it and Load to the Azure SQL DB.
+  1) Used Terraform to provision mySQL server and DB in Azure cloud.
+  2) Python code to Extract the file from local, after few basic checks Transform it and Load to the Azure SQL DB.
 
 # Provisioning mySQL Server and DB using Terraform:
 
