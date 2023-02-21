@@ -13,6 +13,7 @@ As part of the take home assignment section 1:
 Code: sql.tf
 
 Approach: 
+
   -> Assign resource group name and location.
   
   -> Create SQL Server
@@ -40,6 +41,7 @@ Execution:
 # Python ETL:
 
 Approach:
+
   -> Copy the source file in local.
   
   -> Ingest the file to DataFrame using Anaconda notebook.
@@ -56,4 +58,10 @@ Approach:
       
       5) email column verification
       
-  -> 
+  -> Verify Azure connectivity (optional)
+  
+  -> Connect to mySQL server/DB
+  
+  -> Load Data !!! GOAL ACHIEVED
+  
+  -> Extract from table for proof.
