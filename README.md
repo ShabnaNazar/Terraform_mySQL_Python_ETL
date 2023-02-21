@@ -69,11 +69,15 @@ Approach:
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 # Further Improvements:
-
-  -> Encrypt the login credentials.
   
   -> Auto create the table using DataFrame structure.
   
   -> Update ETL section.
   
+  -> Provision Azure storgae account using Terraform
+  
   -> Ingestion of source file from Azure storage.
+  
+  -> Create seperate layers for large datasets, Raw, Clean and Processed
+  
+  
