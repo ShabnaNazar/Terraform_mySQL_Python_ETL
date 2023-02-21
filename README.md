@@ -11,6 +11,7 @@ As part of the take home assignment section 1:
 # Provisioning mySQL Server and DB using Terraform:
 
 Code: sql.tf
+
 Approach: 
   -> Assign resource group name and location.
   
@@ -21,22 +22,38 @@ Approach:
   -> Add firewall rule to provide access to client machine.
   
 Execution:
+
   -> Pre-requisites - locally installed visual studio code.
+  
   -> Terraform installed and plugged in.
+  
   -> Install Azure tools in VSC.
+  
   -> Use command 'az login' to verify the connection from ternminal
+  
   -> Initialize terraform: Command- terraform init
+  
   -> Verify the plan using: Command- terraform plan
+  
   -> Execute and provision: Commanmd- terraform Apply->enter 'yes'
 
 # Python ETL:
+
 Approach:
   -> Copy the source file in local.
+  
   -> Ingest the file to DataFrame using Anaconda notebook.
+  
   -> Perform tranformations:
+  
       1) Basic Checks
+      
       2) Sorting by name
+      
       3) Add column for full name and move the position
+      
       4) Reset and adjust the index
+      
       5) email column verification
+      
   -> 
