@@ -58,8 +58,6 @@ Approach:
       
       5) email column verification
       
-  -> Verify Azure connectivity (optional)
-  
   -> Connect to mySQL server/DB
   
   -> Load Data !!! GOAL ACHIEVED
