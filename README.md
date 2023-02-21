@@ -65,3 +65,15 @@ Approach:
   -> Load Data !!! GOAL ACHIEVED
   
   -> Extract from table for proof.
+  
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+# Further Improvements:
+
+  -> Encrypt the login credentials.
+  
+  -> Auto create the table using DataFrame structure.
+  
+  -> Update ETL section.
+  
+  -> Ingestion of source file from Azure storage.
