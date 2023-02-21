@@ -42,9 +42,11 @@ Execution:
 
 Approach:
 
-  -> Copy the source file in local.
+  -> Copy the source file in local. Change the file path in code to match your local soure path. 
   
   -> Ingest the file to DataFrame using Anaconda notebook.
+  
+  -> upload the SSL file from GIT to your working directory (same as source file path). 
   
   -> Perform tranformations:
   
