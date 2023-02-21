@@ -13,9 +13,13 @@ As part of the take home assignment section 1:
 Code: sql.tf
 Approach: 
   -> Assign resource group name and location.
+  
   -> Create SQL Server
+  
   -> Create SQL DB in the newly created server.
+  
   -> Add firewall rule to provide access to client machine.
+  
 Execution:
   -> Pre-requisites - locally installed visual studio code.
   -> Terraform installed and plugged in.
